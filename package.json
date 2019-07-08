@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "risen-workout-tracker",
+  "description": "workout tracker for risen gamers",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
